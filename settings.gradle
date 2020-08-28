@@ -1,0 +1,2 @@
+rootProject.name='JoesoftDating'
+include ':app'
